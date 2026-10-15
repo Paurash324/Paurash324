@@ -3,8 +3,8 @@
 <img src="assets/profile-hero.gif" alt="Paurash Jha — building practical AI and privacy-first tools" width="100%" />
 
 <a href="https://github.com/Paurash324"><img src="https://img.shields.io/badge/GitHub-Paurash324-10171d?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/Paurash324?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-e9a23b?style=flat-square" alt="Projects" /></a>
-<a href="https://github.com/Paurash324/Darklens"><img src="https://img.shields.io/badge/Featured-DarkLens-74c7a1?style=flat-square" alt="Featured project" /></a>
+<a href="https://github.com/Paurash324?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-9d67ff?style=flat-square" alt="Projects" /></a>
+<a href="https://github.com/Paurash324/Darklens"><img src="https://img.shields.io/badge/Featured-DarkLens-4ba3ff?style=flat-square" alt="Featured project" /></a>
 
 </div>
 
@@ -62,8 +62,8 @@ An interactive tool for thinking through digital transformation readiness.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Paurash324&show_icons=true&hide_border=true&bg_color=10171d&title_color=e9a23b&icon_color=74c7a1&text_color=e8edf2&ring_color=e9a23b" alt="Paurash's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paurash324&layout=compact&hide_border=true&bg_color=10171d&title_color=e9a23b&text_color=e8edf2" alt="Paurash's most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Paurash324&show_icons=true&hide_border=true&bg_color=10171d&title_color=9d67ff&icon_color=4ba3ff&text_color=e8edf2&ring_color=9d67ff" alt="Paurash's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paurash324&layout=compact&hide_border=true&bg_color=10171d&title_color=9d67ff&text_color=e8edf2" alt="Paurash's most used languages" />
 
 </div>
 
