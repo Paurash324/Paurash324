@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-hero.svg" alt="Paurash Jha — building practical AI and privacy-first tools" width="100%" />
+<img src="assets/profile-hero.gif" alt="Paurash Jha — building practical AI and privacy-first tools" width="100%" />
 
 <a href="https://github.com/Paurash324"><img src="https://img.shields.io/badge/GitHub-Paurash324-10171d?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://github.com/Paurash324?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-e9a23b?style=flat-square" alt="Projects" /></a>
