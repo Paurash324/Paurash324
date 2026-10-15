@@ -1,0 +1,12 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#0E171D"/><stop offset=".55" stop-color="#14252D"/><stop offset="1" stop-color="#10171D"/></linearGradient>
+<radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(985 30) rotate(140) scale(330 420)" gradientUnits="userSpaceOnUse"><stop stop-color="#E9A23B" stop-opacity=".3"/><stop offset="1" stop-color="#E9A23B" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="300" rx="24" fill="url(#bg)"/><rect width="1200" height="300" rx="24" fill="url(#glow)"/>
+<path d="M0 250C190 208 306 285 494 234C673 186 844 244 1200 144" stroke="#263640" stroke-width="2"/><path d="M0 275C206 229 316 306 520 250C716 196 860 258 1200 169" stroke="#1D3039" stroke-width="2"/>
+<g transform="translate(78 67)"><rect width="78" height="78" rx="21" fill="#E9A23B"/><circle cx="35" cy="34" r="19" stroke="#17212B" stroke-width="8"/><path d="M50 49L64 63" stroke="#17212B" stroke-width="8" stroke-linecap="round"/></g>
+<text x="78" y="191" fill="#E8EDF2" font-family="Arial,Helvetica,sans-serif" font-size="49" font-weight="700" letter-spacing="-1.8">Paurash Jha</text>
+<text x="81" y="228" fill="#AAB8C1" font-family="Arial,Helvetica,sans-serif" font-size="19" letter-spacing=".5">AI/ML student · builder · curious about useful software</text>
+<rect x="894" y="89" width="218" height="78" rx="16" fill="#151F26" stroke="#34454F"/><circle cx="924" cy="119" r="7" fill="#74C7A1"/><text x="944" y="125" fill="#9DD7B9" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700">BUILDING IN PUBLIC</text><rect x="924" y="141" width="147" height="7" rx="3.5" fill="#E9A23B"/><rect x="924" y="154" width="92" height="6" rx="3" fill="#53626A"/>
+</svg>
