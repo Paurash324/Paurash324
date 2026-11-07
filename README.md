@@ -4,7 +4,7 @@
 
 <a href="https://github.com/Paurash324"><img src="https://img.shields.io/badge/GitHub-Paurash324-10171d?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://github.com/Paurash324?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-9d67ff?style=flat-square" alt="Projects" /></a>
-<a href="https://github.com/Paurash324/Darklens"><img src="https://img.shields.io/badge/Featured-DarkLens-4ba3ff?style=flat-square" alt="Featured project" /></a>
+<a href="https://github.com/Paurash324/delhi-aqi-prediction"><img src="https://img.shields.io/badge/Featured-Delhi%20Air%20Intelligence-4ba3ff?style=flat-square" alt="Featured project" /></a>
 
 </div>
 
@@ -24,6 +24,11 @@ I like working at the intersection of **AI/ML, automation, developer tools, and 
 - **Human-centered systems** — dashboards, decision tools, and explainable outputs
 
 ## Featured work
+
+### [Delhi Air Intelligence — AQI Prediction & Analysis](https://github.com/Paurash324/delhi-aqi-prediction)
+An AI/ML-powered platform for exploring Delhi air-quality patterns, comparing forecasting models, and viewing AQI predictions through an interactive React dashboard. [Live demo](https://delhi-aqi-prediction-i78z.onrender.com/)
+
+`Python` `FastAPI` `Scikit-learn` `React` `TypeScript`
 
 ### [DarkLens](https://github.com/Paurash324/Darklens)
 A privacy-conscious Chrome extension that surfaces potential dark patterns with local, evidence-first rules.
