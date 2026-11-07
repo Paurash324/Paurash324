@@ -10,7 +10,7 @@
 
 ## Hi, I'm Paurash.
 
-**BE CSE (AI/ML) student at Chandigarh University** building practical software that turns messy problems into clear, useful experiences.
+**BE CSE (AI/ML) student** building practical software that turns messy problems into clear, useful experiences.
 
 I like working at the intersection of **AI/ML, automation, developer tools, and thoughtful product design** — especially when the result is something people can actually use.
 
